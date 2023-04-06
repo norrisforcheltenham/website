@@ -1,0 +1,26 @@
+@font-face {
+	font-family: 'Monserrat';
+	src: url('fonts/Monserrat/static/Monserrat-Regular.tff') format('truetype');
+}
+
+html {
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	background: #8ee4fc;
+	color: #243e6d;
+	padding: 0px;
+	margin: 0px;
+	font-family: Montserrat, sans-serif;
+}
+
+em {
+	font-style: normal;
+	color: #f6ca46;
+}
+
+span.keepTogether {
+	white-space: nowrap;
+}
