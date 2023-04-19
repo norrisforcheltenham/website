@@ -24,7 +24,7 @@
 		<li>Served 12 Years on the Township Board of Commissioners</li>
 		<li>Elected President of Commissioners 6 years in a row</li>
 		<li>44-year township resident</li>
-		<li>Democratic Committe Person for 32 years</li>
+		<li>Democratic Committee Person for 32 years</li>
 		<li>CPA/Licensed Financial, Tax/Investment Planner</li>
 	</ul>
 	<h2>Endorsements</h2>
@@ -34,11 +34,11 @@
 			Craig Browne, past President of the NAACP and past President of the Cheltenham School Board
 		</li>
 		<li>Matt Areman, Vice President of the Cheltenham Township Commissioners</li>
+		<li>Irv Brockington, Cheltenham Township Commissioner</li>
 		<li>Dwight Lewis, Cheltenham Township Commissioner</li>
 		<li>Brad Pransky, Cheltenham Township Commissioner</li>
-		<li>Mitch Zygmund-Felt, Cheltenham Township Commissioner</li>
-		<li>Irv Brockington, Cheltenham Township Commissioner</li>
 		<li>Ann Rappaport, PhD</li>
+		<li>Mitch Zygmund-Felt, Cheltenham Township Commissioner</li>
 		<li>Caryl Levin, President of the Melrose Park Neighbors Association</li>
 		<li>David Cohen, Cheltenham School Board</li>
 		<li>Daniel Schultz, Co-Chair of the Cheltenham Democratic Committee</li>
