@@ -1,6 +1,29 @@
 <div id="headshot">
 	<img src="/img/dan.jpg" alt="A photograph of Dan Norris" />
 </div>
+<div id="statement">
+	<p>I'm Dan Norris, your Cheltenham Commissioner in Ward 5, and I'm running for re-election.</p>
+	<p>
+		As a Township Commissioner, I am committed to ensuring that our community is a safe and vibrant
+		place to live, work, and play. I will strive to ensure that our township is well-maintained and
+		that our residents have access to the resources they need to thrive. I will work to ensure that
+		our township is a welcoming and inclusive place for all.
+	</p>
+	<p>
+		Through strong fiscal management I will ensure that our tax dollars are properly spent and
+		provide the necessary funding required by our libraries, fire companies, and community centers.
+	</p>
+	<p>
+		I believe that every member of our community deserves to be heard and valued. That's why I
+		maintain an open-door policy to all neighbors and work hard to be responsive to community needs.
+		I am dedicated to creating a welcoming and inclusive environment for all residents of
+		Cheltenham.
+	</p>
+	<p>
+		Together, we can continue to build a strong and resilient community that we are all proud to
+		call home. Thank you for your support.
+	</p>
+</div>
 
 <div id="platform">
 	<h2>Accomplishments</h2>
@@ -49,20 +72,63 @@
 		<li>Myron Goldman, President of Friends of Elkins Park Library</li>
 		<li>Shirley Curry, Jenkintown Democratic Party</li>
 	</ul>
+	<h2>Community Action</h2>
+	<div class="image">
+		<img
+			src="/img/dan_lamott.png"
+			alt="A photograph of Dan Norris speaking with staff and Representative Dean about La Mott"
+		/>
+		<p>
+			Dan Norris, Congresswoman Dean, and township staff at LaMott community center discussing
+			funding needs for facility renovations.
+		</p>
+	</div>
+	<hr />
+	<div class="image">
+		<img
+			src="/img/dan_and_napoleon.png"
+			alt="A photograph of Dan Norris with State Representative Nelson"
+		/>
+		<p>
+			Representative Nelson and Dan Norris discussing the government grants for rebuilding the
+			LaMott Community Center.
+		</p>
+	</div>
+	<hr />
+	<div class="image">
+		<img
+			src="/img/dan_and_dean.png"
+			alt="A photograph of Dan Norris with Congresswoman Madeline Dean"
+		/>
+		<p>
+			Congresswoman Dean, Dan Norris, and commissioners Pransky and Zygmund-Felt touring the LaMott
+			Community Center.
+		</p>
+	</div>
 </div>
 
 <style>
 	#headshot img {
-		max-width: 400px;
+		max-width: 100%;
 		margin: auto;
 	}
 	#headshot {
 		text-align: center;
 		margin: 15px;
 	}
+
+	#statement {
+		background: #fff;
+		font-size: 1.2em;
+		padding: 1px 0px;
+	}
+	#statement p {
+		margin: 20px;
+	}
+
 	#platform {
 		background: #ffffff;
-		max-width: 500px;
+		max-width: 800px;
 		margin: auto;
 		padding-bottom: 5px;
 	}
@@ -72,6 +138,24 @@
 		color: #fff;
 		margin: 0px;
 		padding-bottom: 10px;
+	}
+	hr {
+		margin: 20px 40px;
+		color: #eee;
+	}
+	.image {
+		max-width: 600px;
+		padding: 0px 20px;
+	}
+	.image img {
+		max-width: 100%;
+		display: block;
+		margin: 10px auto;
+	}
+	.image p {
+		text-align: center;
+		margin: 0px 20px;
+		font-weight: bold;
 	}
 	ul li {
 		margin-bottom: 15px;
