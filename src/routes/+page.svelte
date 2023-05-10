@@ -24,8 +24,15 @@
 		call home. Thank you for your support.
 	</p>
 </div>
-
 <div id="platform">
+	<div class="quote">
+		<p>
+			"Dan works quietly and competently, forging consensus among those of differing views to move
+			Cheltenham forward. There are no histrionics or showmanship in his governing style. He will
+			get the job done without alienating residents or other elected officials."
+		</p>
+		<div class="attribution">- Stephen Burns, Township Finance Officer 2002-2017, 2020</div>
+	</div>
 	<h2>Accomplishments</h2>
 	<ul>
 		<li>Leading the Charge to Revitalize Township Facilities</li>
@@ -62,6 +69,7 @@
 		<li>Brad Pransky, Cheltenham Township Commissioner</li>
 		<li>Ann Rappaport, PhD</li>
 		<li>Mitch Zygmund-Felt, Cheltenham Township Commissioner</li>
+		<li>Stephen Burns, Cheltenham Township Finance Officer (2002-2017, 2020)</li>
 		<li>Caryl Levin, President of the Melrose Park Neighbors Association</li>
 		<li>David Cohen, Cheltenham School Board</li>
 		<li>Daniel Schultz, Co-Chair of the Cheltenham Democratic Committee</li>
@@ -139,6 +147,23 @@
 		margin: 0px;
 		padding-bottom: 10px;
 	}
+
+	.quote {
+		padding: 20px;
+		margin: 20px;
+		margin-top: 0px;
+		background: #eee;
+		border: 1px solid #ddd;
+		border-radius: 5px;
+	}
+
+	.quote p {
+		margin: 0px;
+		margin-bottom: 10px;
+		font-size: 1.2em;
+		font-style: italic;
+	}
+
 	hr {
 		margin: 20px 40px;
 		color: #eee;
